@@ -1,0 +1,12 @@
+.level1{
+    width: 15vw;}
+div{
+    width: 90%;
+    border-radius: 15px;
+    margin: 4PX;
+    padding: 3%;
+    border: 1px green solid;
+}
+span{
+display: block;
+}
